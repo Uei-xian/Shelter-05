@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【尤金x本】梦幻泡影
+title: 尤金x本 梦幻泡影
 date: 2019-06-08
 Author: Uei
 categories: 
